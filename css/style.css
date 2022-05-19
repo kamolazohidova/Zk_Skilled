@@ -71,6 +71,10 @@ a {
     text-decoration: none;
 }
 
+:focus {
+    outline: 2px dashed #f74780;
+    outline-offset: 3px;
+}
 
 /* CONTAINER  */
 .container {
@@ -89,6 +93,7 @@ a {
     padding: 14px 31px;
     border-radius: 28px;
     color: var(--white);
+    cursor: pointer;
 }
 
 .btn:hover {
