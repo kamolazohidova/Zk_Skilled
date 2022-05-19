@@ -97,11 +97,11 @@ a {
 }
 
 .btn:hover {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 .btn:active {
-    opacity: 0.4;
+    opacity: 0.6;
 }
 
 .button-dark {
